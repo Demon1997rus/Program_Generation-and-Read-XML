@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2022-11-17T15:31:37. -->
+<!-- Written by QtCreator 4.11.0, 2023-01-10T20:36:30. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -282,8 +282,9 @@
     </valuelist>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/demon173rus/Рабочий стол/projects/TestovoeZadanie/TestovoeZadanie.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/demon173rus/Рабочий стол/projects/TestovoeZadanie/TestovoeZadanie.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">TestovoeZadanie2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/demon173rus/Рабочий стол/projects/Program_Generation-and-Read-XML/TestovoeZadanie.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/demon173rus/Рабочий стол/projects/Program_Generation-and-Read-XML/TestovoeZadanie.pro</value>
     <value type="QString" key="RunConfiguration.Arguments"></value>
     <value type="bool" key="RunConfiguration.Arguments.multi">false</value>
     <value type="QString" key="RunConfiguration.OverrideDebuggerStartup"></value>

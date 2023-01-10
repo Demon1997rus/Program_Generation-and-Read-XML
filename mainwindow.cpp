@@ -57,6 +57,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->pbGenerationXML->setDisabled(true);
     ui->pbAddRow->setDisabled(true);
     ui->pbRemoveRow->setDisabled(true);
+    qDebug() << "allo";
 }
 
 //деструктор MainWindow
